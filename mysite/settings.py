@@ -25,7 +25,7 @@ SECRET_KEY = 'ml3!t(=&8$93wg_ym#fjm1_=z%h$83a7%@6qglm43lk7s@!t65'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'tanis.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', ' tanfirstblog.pythonanywhere.com']
 
 
 # Application definition
